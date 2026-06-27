@@ -1,5 +1,5 @@
 
-# Hi, I'm Andreia 👋
+# Hi, I'm Andreia Lima 👋
 
 ## Data Analyst | Aspiring Data Scientist | Machine Learning & AI
 
