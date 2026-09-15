@@ -33,6 +33,13 @@ Currently completing the **TripleTen Data Science Bootcamp** while expanding my 
 - Hypothesis Testing
 - Feature Engineering
 
+  ### AI & LLM
+
+- Prompt Engineering
+- LLM API Integration (Groq)
+- Structured Output Generation (JSON)
+- AI Error Handling & Fallback Strategies
+
 ### Machine Learning
 - Scikit-learn
 - Supervised Learning
@@ -55,13 +62,15 @@ Currently completing the **TripleTen Data Science Bootcamp** while expanding my 
 
 ---
 
-## 🌱 Currently Learning
+- ## 🌱 Currently Learning
 
 - Deep Learning
 - Neural Networks
 - Computer Vision
 - Unsupervised Learning
-- Artificial Intelligence
+- Fine-tuning LLMs
+- AI Agents & Function Calling
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
