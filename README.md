@@ -1,15 +1,18 @@
-
 # Hi, I'm Andreia Lima 👋
 
 ## Data Analyst | Aspiring Data Scientist | Machine Learning & AI
-
-##🏆 1º lugar no Hackathon Juninhos-Nortjobs 2026
 
 I build data-driven solutions using **Python, SQL, Machine Learning, and Data Analytics** to transform complex datasets into actionable business insights.
 
 I'm passionate about solving real-world business problems through **Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling, Natural Language Processing (NLP), and Machine Learning**.
 
 Currently completing the **TripleTen Data Science Bootcamp** while expanding my knowledge in AI and predictive analytics.
+
+---
+
+## 🏆 Highlights
+
+- **1st place** at the Juninhos-Nortjobs 2026 Hackathon with [KANdo — Talent Passport](https://github.com/Deialima/kando), an AI-powered interview prep platform (resume-to-job matching, AI-generated technical mock interviews, and personalized study tracks)
 
 ---
 
